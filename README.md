@@ -11,13 +11,13 @@
 
 To install the crate run the following command:
 
-```
+```bash
 cargo add --git https://github.com/Mono-Code-Scheme/scheme-rs
 ```
 
 Or add it manually in your Cargo.toml:
 
-```
+```toml
 monocode-scheme-rs = { git="https://github.com/Mono-Code-Scheme/scheme-rs" }
 ```
 
