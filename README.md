@@ -10,7 +10,15 @@
 # Install
 
 To install the crate run the following command:
+
 `cargo add --git https://github.com/Mono-Code-Scheme/scheme-rs`
 
-or add it manually in your `Cargo.toml`
+Or add it manually in your Cargo.toml:
+
 `monocode-scheme-rs = { git="https://github.com/Mono-Code-Scheme/scheme-rs" }`
+
+# Usage
+You can check the [guidelines](https://github.com/Mono-Code-Scheme/guidelines/wiki/Palette-for-Languages/) for the functions to get the colors
+
+# Maintainers
+🐈‍⬛ lighttigerXIV
